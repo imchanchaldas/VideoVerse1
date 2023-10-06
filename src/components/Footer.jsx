@@ -48,7 +48,7 @@ const Footer = () => {
           borderRight={['none', '1px solid white']}
         >
           <Heading textTransform={'uppercase'} textAlign={'center'}>
-            VIDEO HUB
+            VIdeoverse
           </Heading>
           <Text>All rights received</Text>
         </VStack>
@@ -57,19 +57,15 @@ const Footer = () => {
           <Heading size={'md'} textTransform={'uppercase'}>
             Social Media
           </Heading>
+          
           <Button variant={'link'} colorScheme={'white'}>
-            <a target={'black'} href="https://youtube.com/6packprogrammer">
-              Youtube
-            </a>
-          </Button>
-          <Button variant={'link'} colorScheme={'white'}>
-            <a target={'black'} href="https://instagram.com/meabhisingh">
-              Instagram
+            <a target={'black'} href="https://www.linkedin.com/in/chanchaldas046/">
+              Linkedin
             </a>
           </Button>
 
           <Button variant={'link'} colorScheme={'white'}>
-            <a target={'black'} href="https://github.com/meabhisingh">
+            <a target={'black'} href="https://github.com/imchanchaldas">
               Github
             </a>
           </Button>
